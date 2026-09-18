@@ -1,6 +1,0 @@
-name: astrbot_plugin_scheduled_sender # 插件唯一识别名
-display_name: 定时消息轮播 # 展示名(需要 AstrBot >= v4.5.0, 低版本会自动忽略)
-desc: 定时向会话发送预设文本消息, 支持多条消息轮换发送与每日/星期/间隔/cron 重复。 # 插件简短描述
-version: v1.0.0 # 插件版本号
-author: seelesyn
-repo: https://github.com/seelesyn/astrbot_plugin_scheduled_sender/
